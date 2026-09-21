@@ -8,8 +8,8 @@
 }
 
 window#waybar {
-    background-color: rgba(0, 0, 0, 1);
-    color: #e3e1e9;
+    background-color: #2b2c2e;
+    color: #d2d8d9;
     transition: background-color 0.3s ease;
 }
 
@@ -23,13 +23,13 @@ window#waybar {
 #workspaces button {
     padding: 0px 7px;
     margin: 0px;
-    color: #e3e1e9;
+    color: #d2d8d9;
     background-color: transparent;
     box-shadow: none;
 }
 
 #workspaces button.empty {
-    color: #e3e1e9;
+    color: #d2d8d9;
     opacity: 0.35;
 }
 
@@ -63,7 +63,7 @@ padding: 0px 0px;
 #memory,
 #tray {
 padding: 0px 10px;
-color: #e3e1e9;
+color: #d2d8d9;
 }
 
 
